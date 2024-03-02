@@ -4,12 +4,6 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Identification {
-	/*身份證產生器
-	 * 1.輸入身份證號,驗證此身份證號是否正確
-	 * 2.產生正確的身份證號
-	 * 	a.選擇區域
-	 * 	b.性別
-	 */
 	static String s="ABCDEFGHJKLMNPQRSTUVWXYZIO";
 	static int checknum=0;
 	static int y=9;
